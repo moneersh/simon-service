@@ -83,6 +83,7 @@ function App() {
             <a
               className="text-reset"
               href="https://github.com/moneersh/simon-react"
+              target="_blank"
             >
               <i className="fab fa-github"></i> <span>Source</span>
             </a>
